@@ -1,3 +1,11 @@
+/*
+Este archivo define los estilos de tu aplicación React. 
+Los dos primeros selectores CSS ( y ) definen el estilo de grandes partes 
+de tu app, mientras que el selector define el estilo de cualquier componente
+donde la propiedad está establecida en . En tu código
+*/
+
+
 * {
   box-sizing: border-box;
 }
